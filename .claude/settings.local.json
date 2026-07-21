@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(SD=/c/Users/cagli/AppData/Local/Temp/claude/c--Users-cagli-OneDrive-Documentos-2--Phynet-GDP-Registration-form/fef81b26-be8c-4e32-b687-5154922a32f8/scratchpad *)",
+      "Read(//c/Users/cagli/AppData/Local/Temp/claude/c--Users-cagli-OneDrive-Documentos-2--Phynet-GDP-Registration-form/fef81b26-be8c-4e32-b687-5154922a32f8/scratchpad/**)"
+    ]
+  }
+}
